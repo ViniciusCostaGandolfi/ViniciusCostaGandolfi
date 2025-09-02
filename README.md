@@ -77,9 +77,20 @@ Tenho um grande interesse pela área de **Inteligência Artificial** e Análise 
 <details>
   <summary><strong>RotaFood - Sistema de Gestão para Restaurantes</strong></summary>
   <br>
+  
+  <a href="https://rotafood.com.br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ViniciusCostaGandolfi/ViniciusCostaGandolfi/main/Rotafood1.png" alt="Preview do RotaFood" width="800px"/>
+  </a>
+  
   <p>
     Meu projeto pessoal, um sistema SaaS completo para restaurantes que inclui cardápio digital, gestão de pedidos, comandas e um módulo de otimização de rotas para entregas. É onde aplico e aprendo novas tecnologias em um ambiente de produção real.
-    <br><br>
+  </p>
+    
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ViniciusCostaGandolfi/ViniciusCostaGandolfi/main/Rotafood-Catalogo.png" alt="Preview do catálogo do RotaFood" width="600px"/>
+  </p>
+  
+  <p>
     <strong>Tecnologias:</strong> Java, Spring Boot, PostgreSQL, Angular, Docker.
     <br><br>
     <a href="https://rotafood.com.br/" target="_blank"><strong>Acesse o site →</strong></a>
@@ -93,9 +104,20 @@ Tenho um grande interesse pela área de **Inteligência Artificial** e Análise 
 <details>
   <summary><strong>Grade Horários - Organizador de Grade Curricular</strong></summary>
   <br>
+  
+  <a href="https://gradehorarios.com.br/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ViniciusCostaGandolfi/ViniciusCostaGandolfi/main/GradeHorarios1.png" alt="Preview do site Grade Horários" width="800px"/>
+  </a>
+  
   <p>
     Uma aplicação para auxiliar estudantes na organização de sua grade de horários acadêmica, facilitando a visualização de matérias, horários e locais.
-    <br><br>
+  </p>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ViniciusCostaGandolfi/ViniciusCostaGandolfi/main/GradeHorarios2.png" alt="Preview extra do Grade Horários" width="600px"/>
+  </p>
+  
+  <p>
     <strong>Tecnologias:</strong> [Adicionar as tecnologias principais aqui, ex: .NET, React, etc.]
     <br><br>
     <a href="https://gradehorarios.com.br/" target="_blank"><strong>Acesse o site →</strong></a>
@@ -105,6 +127,8 @@ Tenho um grande interesse pela área de **Inteligência Artificial** e Análise 
     <a href="https://github.com/ViniciusCostaGandolfi/gradehorarios-web" target="_blank">Repositório Front-end (Web)</a>
   </p>
 </details>
+
+<details>
 
 <details>
   <summary><strong>Otimização Logística com IA (Parceria Unicamp & Correios)</strong></summary>
