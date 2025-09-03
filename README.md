@@ -123,7 +123,7 @@ Atualmente estou estudando mais sobre SOLID, DRY, Clean Archtecture e boas prát
   <img src="https://raw.githubusercontent.com/ViniciusCostaGandolfi/ViniciusCostaGandolfi/main/GradeHorarios2.png" alt="Preview extra do Grade Horários" width="800px"/>
   
   <p>
-    <strong>Tecnologias:</strong> [Adicionar as tecnologias principais aqui, ex: .NET, React, etc.]
+    <strong>Tecnologias:</strong> Angular, Typescript, HTML, CSS, TailwindCSS, Python, FastAPI, ORTools, Pandas, Scikit-learn
     <br><br>
     <a href="https://gradehorarios.com.br/" target="_blank"><strong>Acesse o site →</strong></a>
     <br>
@@ -140,7 +140,7 @@ Atualmente estou estudando mais sobre SOLID, DRY, Clean Archtecture e boas prát
   <p>
     Atuei como Analista de Dados no desenvolvimento de modelos de Inteligência Artificial para prever consumo de combustível e otimizar rotas de distribuição. O projeto identificou um potencial de economia de milhões de reais anuais para a empresa.
     <br><br>
-    <strong>Tecnologias:</strong> Python, Pandas, Scikit-learn, Tensorflow.
+    <strong>Tecnologias:</strong> Python, Pandas, Scikit-learn, Tensorflow, ORTools.
   </p>
 </details>
 
