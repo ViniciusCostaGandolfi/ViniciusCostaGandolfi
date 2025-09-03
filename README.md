@@ -24,6 +24,8 @@ Sou um Desenvolvedor de Software apaixonado por resolver problemas complexos e c
 
 Tenho um grande interesse pela área de **Inteligência Artificial** e Análise de Dados, onde já atuei em projetos de alto impacto para otimização de processos logísticos utilizando **Python**. Sou proativo, colaborativo e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e entregar o melhor resultado possível.
 
+Atualmente estou estudando mais sobre SOLID, DRY, Clean Archtecture e boas práticas de código!
+
 ---
 
 ### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
