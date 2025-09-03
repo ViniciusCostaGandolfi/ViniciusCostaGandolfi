@@ -28,7 +28,7 @@ Atualmente estou estudando mais sobre SOLID, DRY, Clean Archtecture e boas prát
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
+### 🛠️ Minha Tech Stack
 
 <p align="left">
   <strong>Linguagens:</strong><br>
