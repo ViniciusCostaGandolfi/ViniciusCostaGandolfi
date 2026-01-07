@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand">
-  Olá! Eu sou o Vinícius Costa Gandolfi
+  Vinícius Costa Gandolfi
 </h1>
 <h3 align="center">Software Engineer | Java (Spring Boot) & Angular e Typescript</h3>
 
