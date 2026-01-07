@@ -22,7 +22,7 @@
 
 ### Sobre Mim
 
-Sou **Desenvolvedor Java**  . Meu dia a dia envolve a implementação de **Enterprise Integration Patterns (EIP)** utilizando **Apache Camel** e Java, conectando ecossistemas complexos como Guidewire (Gosu) a arquiteturas modernas.
+Sou **Desenvolvedor Java** com foco em Spring Boot para criar serviços escaláveis, integrar sistemas e construir aplicações. Me aventuro no Front-End com Angular e React conforme o necessário.
 
 Atualmente estou estudando **Arquitetura de Software**, com foco em **DDD (Domain-Driven Design)**, Clean Architecture e padrões SOLID. No meu tempo livre, gerencio e desenvolvo Side Projects como o **RotaFood** e o **Grade Horários**, onde aplico todo o ecossistema **Java/Spring Boot** e **Angular** em um cenário SaaS de pequena escala real.
 
