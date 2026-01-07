@@ -10,6 +10,9 @@
   <a href="mailto:vinicostagandolfi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://gradehorarios.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/GradeHorarios-orange?style=for-the-badge&logo=rocket&logoColor=white" alt="RotaFood">
+  </a>
   <a href="https://rotafood.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/RotaFood-orange?style=for-the-badge&logo=rocket&logoColor=white" alt="RotaFood">
   </a>
